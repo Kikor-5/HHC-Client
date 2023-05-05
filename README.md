@@ -1,2 +1,13 @@
 # HHC-Client
-https://sites.google.com/view/h-h-3 for more games/hacks
+Play Eaglercraft at it's best with over 5 PE's built in to all these Eaglercraft Clients!
+
+Credits:
+
+Lax1dude
+
+Kikor-5
+
+Other People
+
+
+Imagine reading the README.md file, get help :> - Kikor-5
